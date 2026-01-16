@@ -18,6 +18,19 @@
       "is_premium": false
     },
     {
+      "id": "pet_wheel",
+      "display_name": "Wheel",
+      "category": "Pet",
+      "file_name": "pet_wheel.gif",
+      "file_path": "pets/pet_wheel.gif",
+      "size_bytes": 783000,
+      "size_display": "783 KB",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/pet_wheel.gif",
+      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/pet_wheel.gif",
+      "is_free": false,
+      "is_premium": true
+    },
+    {
       "id": "pet_black_dragon",
       "display_name": "Black Dragon",
       "category": "Pet",
