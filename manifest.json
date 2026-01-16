@@ -125,6 +125,19 @@
       "is_premium": false
     },
     {
+      "id": "Santa hat",
+      "display_name": "Santa Hat",
+      "category": "Notch",
+      "file_name": "notch_Santa_hat.png",
+      "file_path": "notch/dnotch_Santa_hat.png",
+      "size_bytes": 24,
+      "size_display": "3" KB",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/notch_Santa_hat.png",
+      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/notch_Santa_hat.png",
+      "is_free": true,
+      "is_premium": false
+    },
+    {
       "id": "golden_notch",
       "display_name": "Golden Notch",
       "category": "Notch",
@@ -132,7 +145,7 @@
       "file_path": "notch/golden nottch.png",
       "size_bytes": 614400,
       "size_display": "600 KB",
-      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/golden%20nottch.png",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/golden_nottch.png",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/golden%20nottch.png",
       "is_free": true,
       "is_premium": false
