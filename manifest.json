@@ -18,6 +18,19 @@
       "is_premium": false
     },
     {
+      "id": "pet_luffy",
+      "display_name": "Luffy",
+      "category": "Pet",
+      "file_name": "pet_luffy.gif",
+      "file_path": "pets/pet_luffy.gif",
+      "size_bytes": 26060,
+      "size_display": "26.06 KB",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/pet_luffy.gif",
+      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/pet_luffy.gif",
+      "is_free": true,
+      "is_premium": false
+    },
+    {
       "id": "pet_wheel",
       "display_name": "Wheel",
       "category": "Pet",
