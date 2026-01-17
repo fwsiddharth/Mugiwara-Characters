@@ -2,7 +2,6 @@
   "version": "1.0.0",
   "last_updated": "2026-01-16",
   "base_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main",
-  
   "pets": [
     {
       "id": "god_angel",
@@ -135,7 +134,6 @@
       "is_premium": false
     }
   ],
-  
   "notch": [
     {
       "id": "design_notch",
@@ -203,7 +201,6 @@
       "is_premium": false
     }
   ],
-  
   "clippers": [
     {
       "id": "clipper_hangman",
@@ -235,12 +232,12 @@
       "id": "clipper_spiderman",
       "display_name": "Spiderman",
       "category": "Clipper",
-      "file_name": "Clipper_Spiderman.png",
-      "file_path": "clippers/Clipper_Spiderman.png",
+      "file_name": "clip_Spiderman.png",
+      "file_path": "clippers/clip_Spiderman.png",
       "size_bytes": 16,
       "size_display": "2 KB",
-      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/Clipper_Spiderman.png",
-      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/Clipper_Spiderman.png",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/clip_Spiderman.png",
+      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/clip_Spiderman.png",
       "is_free": false,
       "is_premium": true
     },
