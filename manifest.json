@@ -232,7 +232,7 @@
       "is_premium": false
     },
     {
-      "id": "clip_Spiderman",
+      "id": "clipper_Spiderman",
       "display_name": "Spiderman",
       "category": "Clipper",
       "file_name": "clip_Spiderman.png",
@@ -241,8 +241,8 @@
       "size_display": "2 KB",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/clip_Spiderman.png",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/clip_Spiderman.png",
-      "is_free": true,
-      "is_premium": false
+      "is_free": false,
+      "is_premium": true
     },
     {
       "id": "clipper_spider",
