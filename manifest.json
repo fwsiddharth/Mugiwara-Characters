@@ -6,7 +6,7 @@
     {
       "id": "god_angel",
       "display_name": "Angel",
-      "category": "God",
+      "category": "pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/God_Angel.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/God_Angel.gif"
@@ -54,7 +54,7 @@
     {
       "id": "pokemon_bewear",
       "display_name": "Bewear",
-      "category": "Pokemon",
+      "category": "Pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Bewear.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Bewear.gif"
@@ -62,7 +62,7 @@
     {
       "id": "pokemon_pikachu",
       "display_name": "Pikachu",
-      "category": "Pokemon",
+      "category": "pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Pikachu.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Pikachu.gif"
@@ -70,7 +70,7 @@
     {
       "id": "pokemon_squirtle",
       "display_name": "Squirtle",
-      "category": "Pokemon",
+      "category": "pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Squirtle.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Squirtle.gif"
