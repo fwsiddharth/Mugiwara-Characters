@@ -184,6 +184,14 @@
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/Clipper_Mickey_Mouse.png"
     },
     {
+      "id": "Black_Spiderman",
+      "display_name": "Black Spiderman",
+      "category": "Clipper",
+      "file_type": "gif",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/Black spiderman.gif",
+      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/clippers/Black spiderman.gif"
+    },
+    {
       "id": "clipper_spiderman",
       "display_name": "Spiderman",
       "category": "Clipper",
