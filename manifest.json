@@ -142,6 +142,14 @@
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/golden_nottch.png"
     },
     {
+      "id": "Devil_Eye",
+      "display_name": "Devil Eye",
+      "category": "Notch",
+      "file_type": "gif",
+      "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/Devil eye.gif",
+      "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/Devil eye.gif"
+    },
+    {
       "id": "notch_monkey",
       "display_name": "Monkey Notch",
       "category": "Notch",
