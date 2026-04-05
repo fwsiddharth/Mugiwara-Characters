@@ -78,7 +78,7 @@
     {
       "id": "pokemon_wooper",
       "display_name": "Wooper",
-      "category": "Pokemon",
+      "category": "pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Wooper.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pokemon_Wooper.gif"
@@ -86,7 +86,7 @@
     {
       "id": "pets_kid_luffy",
       "display_name": "Kid Luffy",
-      "category": "Pets",
+      "category": "Pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Kid_Luffy.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Kid_Luffy.gif"
@@ -94,7 +94,7 @@
     {
       "id": "pets_zoro_on_scooter",
       "display_name": "Zoro On Scooter",
-      "category": "Pets",
+      "category": "Pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Zoro_On_Scooter.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Zoro_On_Scooter.gif"
@@ -102,7 +102,7 @@
     {
       "id": "pets_geppo_sanji",
       "display_name": "Geppo Sanji",
-      "category": "Pets",
+      "category": "Pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Sanji_Geppo.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Sanji_Geppo.gif"
@@ -110,7 +110,7 @@
     {
       "id": "pets_pixel_luffy",
       "display_name": "Pixel Luffy",
-      "category": "Pets",
+      "category": "Pet",
       "file_type": "gif",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pixel_Luffy.gif",
       "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/pets/Pixel_Luffy.gif"
@@ -119,7 +119,7 @@
   "notch": [
     {
       "id": "design_notch",
-      "display_name": "Design Notch",
+      "display_name": "Design",
       "category": "Notch",
       "file_type": "png",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/design_notch.png",
@@ -135,7 +135,7 @@
     },
     {
       "id": "golden_notch",
-      "display_name": "Golden Notch",
+      "display_name": "Goldy",
       "category": "Notch",
       "file_type": "png",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/golden_nottch.png",
@@ -151,7 +151,7 @@
     },
     {
       "id": "notch_monkey",
-      "display_name": "Monkey Notch",
+      "display_name": "Monkey",
       "category": "Notch",
       "file_type": "png",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/notch_monkey.png",
@@ -159,7 +159,7 @@
     },
     {
       "id": "notch_overlay",
-      "display_name": "Notch Overlay",
+      "display_name": "Neon Pink",
       "category": "Notch",
       "file_type": "png",
       "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugiwara-Characters/main/notch/notch_overlay.png",
